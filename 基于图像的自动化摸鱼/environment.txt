@@ -1,0 +1,5 @@
+pyperclip = 1.8.2
+xlrd = 1.2.0
+pyautogui == 0.9.50 
+opencv-python = 4.5.1.48
+pillow = 6.1.0
