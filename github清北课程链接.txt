@@ -1,0 +1,26 @@
+一、北京大学
+1、github.com/lib-pku/libpku
+2、github.com/tongtzeho/PKUCourse
+二、清华大学
+Github 地址：
+github.com/PKUanonym/REKCARC-TSC-UHT
+三、浙江大学
+Github 地址：
+github.com/QSCTech/zju-icicles
+四、中国科学技术大学
+Github 地址：
+github.com/USTC-Resource/USTC-Course
+在线网站地址：
+ustc-resource.github.io/USTC-Course/
+五、中山大学
+Github 地址：
+github.com/sysuexam/SYSU-Exam
+
+
+浙江大学计算机系课程攻略https://github.com/QSCTech/zju-icicles
+清华大学计算机系课程攻略https://github.com/PKUanonym/REKCARC-TSC-UHT
+北大课程资料民间整理https://github.com/lib-pku/libpku
+开源社会大学https://github.com/USTC-Resource/USTC-Course
+自学计算机科学https://github.com/izackwu/TeachYourselfCS-CN
+真棒CS课程https://github.com/prakhar1989/awesome-courses
+408专业课笔记https://github.com/SSHeRun/CS-Xmind-Note
